@@ -1,7 +1,7 @@
 {
-  "name": "New Tab Example",
+  "name": "Word of The Day",
   "version": "0.01",
-  "description": "Display on new tab",
+  "description": "Expand your mind with these intresting Words",
   "chrome_url_overrides":{
     "newtab": "newtab.html"
   },

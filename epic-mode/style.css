@@ -1,5 +1,30 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 body{
+  background: linear-gradient(to bottom, #0066cc 0%, #00cc99 100%);
+  display: block;
 font-family: 'Montserrat', sans-serif;
+width: 400px;
+height: 150px;
+text-align: center;
+}
+h1{
+  color: white;
+}
+select{
+  margin: auto;
+  display: block;
+  padding: 0.5rem;
+  font-size: 16px;
+  border-radius: 10px;
+  border-color: white;
+  background: linear-gradient(to bottom, #0066cc 0%, #00cc99 100%);}
+
+button{
+ background: linear-gradient(to bottom, #0066cc 0%, #00cc99 100%);
+  margin: 1rem auto;
+  padding: 0.5rem;
+  border-radius: 5px;
+  border-color: white;
+  color: white;
 }

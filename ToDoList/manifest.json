@@ -7,9 +7,5 @@
     "default_title": "Epic Mode HTML",
     "default_popup": "popout.htm"
   },
-  "background": {
-    "page": "background.htm",
-    "persistent": true
-  },
   "manifest_version": 2
 }

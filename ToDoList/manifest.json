@@ -2,7 +2,7 @@
   "name": "To-Do-List",
   "version": "0.01",
   "description": "A Simple To Do List Extension",
-
+  "icons": { "128": "icon1.png" },
   "browser_action": {
     "default_title": "To DO HTML",
     "default_popup": "popout.htm"

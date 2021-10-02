@@ -1,7 +1,7 @@
 {
-  "name": "Word of The Day",
+  "name": "Epic mode",
   "version": "0.01",
-  "description": "Expand your mind with these intresting Words",
+  "description": "Are you bored of working too much, Listen to a relaxing music",
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },

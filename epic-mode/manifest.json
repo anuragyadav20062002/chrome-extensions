@@ -5,10 +5,10 @@
   "icons": { "128": "icon.png" },
   "browser_action": {
     "default_title": "Epic Mode HTML",
-    "default_popup": "popout.html"
+    "default_popup": "popout.htm"
   },
   "background": {
-    "page": "background.html",
+    "page": "background.htm",
     "persistent": true
   },
   "manifest_version": 2

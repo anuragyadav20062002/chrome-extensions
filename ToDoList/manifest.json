@@ -1,10 +1,10 @@
 {
-  "name": "Epic-Mode",
+  "name": "To-Do-List",
   "version": "0.01",
-  "description": "Epic Music",
-  "icons": { "128": "icon.png" },
+  "description": "A Simple To Do List Extension",
+
   "browser_action": {
-    "default_title": "Epic Mode HTML",
+    "default_title": "To DO HTML",
     "default_popup": "popout.htm"
   },
   "manifest_version": 2

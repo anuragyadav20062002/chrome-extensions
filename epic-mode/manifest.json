@@ -1,10 +1,14 @@
 {
-  "name": "Popout",
+  "name": "Epic-Mode",
   "version": "0.01",
-  "description": "Popout Music",
+  "description": "Epic Music",
   "browser_action": {
-    "default_title": "Popout HTML",
+    "default_title": "Epic Mode HTML",
     "default_popup": "popout.html"
+  },
+  "background": {
+    "page": "background.html",
+    "persistent": true
   },
   "manifest_version": 2
 }

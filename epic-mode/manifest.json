@@ -1,13 +1,10 @@
 {
-  "name": "Epic mode",
+  "name": "Popout",
   "version": "0.01",
-  "description": "Are you bored of working too much, Listen to a relaxing music",
-  "chrome_url_overrides": {
-    "newtab": "newtab.html"
-  },
-  "background": {
-    "page": "background.html",
-    "persistent": false
+  "description": "Popout Music",
+  "browser_action": {
+    "default_title": "Popout HTML",
+    "default_popup": "popout.html"
   },
   "manifest_version": 2
 }
